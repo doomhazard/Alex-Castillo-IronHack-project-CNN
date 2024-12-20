@@ -13,4 +13,4 @@ Animal-Classification Flask app = Files that the flask app uses to run succesful
 - app.py = Deploys flask app
 - templates = has the home.html that presents the webpage
 
-pycache and uploads = folders that flasks create when runned.
+- pycache and uploads = folders that flasks create when runned.
